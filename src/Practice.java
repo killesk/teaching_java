@@ -6,6 +6,7 @@ public class Practice
         Boom football_1 = new Boom();
         Boom football_2 = new Boom();
         Boom football_3 = new Boom();
+        Booms fasd 0 new Boom,
         football_1.instance_number = 10;
         football_2.instance_number = 14;
         football_3.instance_number = 22;
